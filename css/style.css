@@ -1,0 +1,9 @@
+.principal-fundo {
+    background-image:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url("../img/capa_1000px.jpg");
+    background-size: cover;
+    padding: 220px;
+}
+
+p {
+    font-size: 22px;
+}
