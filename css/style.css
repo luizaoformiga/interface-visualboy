@@ -1,9 +1,24 @@
+/* foto de fundo da página*/
 .principal-fundo {
     background-image:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url("../img/capa_1000px.jpg");
     background-size: cover;
-    padding: 220px;
+    padding-top: 200px;
+    padding-bottom: 150px;
 }
 
+/* formatando tamanho do texto da página*/
 p {
     font-size: 22px;
 }
+
+/* Logo */
+.text-effect {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Footer */
+
+footer p {
+    color: bisque;
+}
+
